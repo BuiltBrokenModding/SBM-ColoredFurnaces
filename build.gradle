@@ -33,9 +33,19 @@ plugins {
 
 apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/1.12.2/index/index.gradle'
 
+repositories
+{
+    maven
+	{
+        name = "JEI"
+        url = "http://dvs1.progwml6.com/files/maven"
+    }
+}
+
 dependencies 
 {
     testCompile 'junit:junit:4.11'
+	compile 'mezz.jei:jei_1.12.2:4.11.0.204'
 }
 
 sourceCompatibility = 1.8
