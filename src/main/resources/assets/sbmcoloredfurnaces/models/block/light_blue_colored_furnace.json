@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "sbmcoloredfurnaces:blocks/light_blue_colored_furnace_top",
+        "front": "sbmcoloredfurnaces:blocks/light_blue_colored_furnace",
+        "side": "sbmcoloredfurnaces:blocks/light_blue_colored_furnace_side"
+    }
+}

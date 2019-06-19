@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbmcoloredfurnaces",
+  "name": "[SBM] Colored Furnaces",
+  "description": "Colored furnaces.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LotuxPunk"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
